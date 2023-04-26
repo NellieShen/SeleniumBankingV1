@@ -1,0 +1,499 @@
+2023-04-21 18:11:39,206 [main] INFO com.inetbanking.testCases.BaseClass - URL is opened
+2023-04-21 18:11:39,248 [main] INFO com.inetbanking.testCases.BaseClass - Enterd username
+2023-04-21 18:11:39,355 [main] INFO com.inetbanking.testCases.BaseClass - Entered password
+2023-04-21 18:11:40,112 [main] INFO com.inetbanking.testCases.BaseClass - Login test passed
+2023-04-21 18:12:54,256 [main] INFO eBanking - URL is opened
+2023-04-21 18:12:54,279 [main] INFO eBanking - Enterd username
+2023-04-21 18:12:54,394 [main] INFO eBanking - Entered password
+2023-04-21 18:12:55,172 [main] INFO eBanking - Login test passed
+2023-04-21 18:16:26,656 [main] INFO com.inetbanking.testCases.BaseClass - URL is opened
+2023-04-21 18:16:26,693 [main] INFO com.inetbanking.testCases.BaseClass - Enterd username test
+2023-04-21 18:16:26,825 [main] INFO com.inetbanking.testCases.BaseClass - Entered password
+2023-04-21 18:16:27,954 [main] INFO com.inetbanking.testCases.BaseClass - Login test passed
+2023-04-21 18:20:10,331 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-21 18:20:10,363 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-21 18:20:10,450 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-21 18:20:11,155 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-24 16:15:36,102 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-24 16:15:36,143 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-24 16:15:36,261 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-24 16:15:37,304 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-24 16:49:42,376 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-24 16:49:42,408 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-24 16:49:42,593 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-24 16:49:43,583 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-24 17:08:06,653 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-24 17:08:06,697 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-24 17:08:06,816 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-24 17:08:07,490 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-24 17:08:28,466 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-24 17:08:28,536 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-24 17:08:28,872 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-24 17:08:30,321 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-24 17:09:09,152 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-24 17:09:09,185 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-24 17:09:09,380 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-24 17:09:10,052 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-24 17:10:03,095 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-24 17:10:03,129 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-24 17:10:03,246 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-24 17:10:04,057 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-24 17:32:47,067 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-24 17:32:47,106 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-24 17:32:47,263 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-24 17:32:48,229 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-24 17:54:26,738 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-24 17:54:26,776 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-24 17:54:26,928 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-24 17:54:27,927 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-24 17:54:45,410 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-24 17:54:45,441 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-24 17:54:45,543 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-25 13:55:24,581 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-25 13:58:05,590 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-25 14:02:04,933 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-25 14:02:37,199 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-25 14:06:54,832 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-25 14:07:55,564 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-25 14:11:03,518 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-25 14:16:42,720 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-25 14:16:43,610 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 14:16:43,694 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 14:16:47,943 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 14:16:48,013 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 14:16:52,015 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 14:16:52,073 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 14:16:55,931 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 14:16:56,006 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 14:17:00,036 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 14:17:00,102 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 14:27:30,968 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-25 14:27:32,344 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 14:27:32,410 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 14:27:35,994 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-25 14:27:40,454 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 14:27:40,521 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 14:27:44,752 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 14:27:44,817 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 14:27:48,320 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-25 14:27:52,660 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 14:27:52,716 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 14:27:56,942 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 14:27:57,005 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 14:46:15,446 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-25 14:46:16,451 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 14:46:16,531 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 14:46:20,270 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-25 14:46:24,460 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 14:46:24,523 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 14:46:28,629 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 14:46:28,721 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 14:46:32,283 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-25 14:46:36,665 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 14:46:36,741 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 14:46:40,812 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 14:46:40,911 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 14:52:33,628 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 14:52:33,991 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 14:52:34,667 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 14:52:38,346 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 14:54:01,919 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 14:54:02,046 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 14:54:02,124 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 14:54:05,728 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 14:55:07,601 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 14:55:07,743 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 14:55:07,836 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 14:55:38,438 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 14:57:32,317 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 14:57:32,458 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 14:57:32,565 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 14:57:36,198 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 15:03:26,929 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 15:03:27,056 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 15:03:27,136 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 15:03:30,722 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 15:04:16,294 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 15:04:16,437 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 15:04:16,518 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 15:04:20,092 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 15:08:48,303 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - validation started....
+2023-04-25 15:08:48,555 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - test case passed....
+2023-04-25 15:11:00,009 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 15:11:00,148 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 15:11:00,303 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 15:11:04,005 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 15:12:17,994 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - validation started....
+2023-04-25 15:12:24,154 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - test case passed....
+2023-04-25 15:13:56,626 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 15:13:56,770 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 15:13:56,854 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 15:14:00,495 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 15:14:19,636 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 15:14:19,783 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 15:14:19,943 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 15:14:26,627 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 15:15:20,964 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 15:15:21,099 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 15:15:21,182 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 15:15:28,059 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 15:15:55,669 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 15:15:55,804 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 15:15:55,890 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 15:16:02,676 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 15:16:21,299 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 15:16:21,485 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 15:16:21,846 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 15:16:28,525 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 15:16:52,493 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - validation started....
+2023-04-25 15:21:39,568 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 15:21:39,689 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 15:21:39,771 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 15:21:46,383 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 15:22:11,550 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - validation started....
+2023-04-25 15:22:11,604 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - test case passed....
+2023-04-25 15:31:02,799 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 15:31:02,953 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 15:31:03,033 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 15:31:10,084 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 15:31:34,647 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - validation started....
+2023-04-25 16:03:08,463 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 16:03:08,594 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 16:03:08,668 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 16:03:15,500 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 16:03:39,521 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - validation started....
+2023-04-25 16:03:39,556 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - test case failed....
+2023-04-25 16:05:26,622 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 16:05:26,858 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 16:05:27,205 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 16:05:33,900 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 16:05:58,324 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - validation started....
+2023-04-25 16:06:31,342 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 16:06:31,505 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 16:06:31,721 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 16:06:38,758 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 16:07:03,609 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - validation started....
+2023-04-25 16:07:03,652 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - test case passed....
+2023-04-25 16:17:17,257 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 16:17:17,564 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 16:17:17,684 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 16:17:24,661 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 16:17:49,513 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - validation started....
+2023-04-25 16:17:49,540 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - test case passed....
+2023-04-25 16:34:16,805 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 16:34:17,030 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 16:34:17,112 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 16:35:17,518 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 16:35:17,741 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 16:35:18,072 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 16:36:27,963 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 16:36:28,095 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 16:36:28,170 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 16:37:29,895 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 16:37:30,088 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 16:37:30,208 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 16:41:38,808 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 16:41:38,943 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 16:41:39,025 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 16:47:49,784 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 16:47:49,925 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 16:47:50,025 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 16:54:45,957 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 16:54:46,169 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 16:54:46,350 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 16:55:54,317 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 16:55:54,502 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 16:55:54,715 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:05:47,749 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:05:47,921 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:05:48,176 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:08:43,296 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:08:43,436 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:08:43,547 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:13:13,423 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:13:13,769 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:13:14,038 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:23:33,474 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:23:34,006 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:23:34,080 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:32:24,462 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:32:24,654 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:32:24,728 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:34:08,897 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:34:09,115 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:34:09,196 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:35:31,013 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:35:31,218 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:35:31,305 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:38:36,340 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:38:36,517 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:38:36,603 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:39:21,484 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:39:21,630 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:39:21,716 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:40:30,365 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:40:30,574 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:40:30,657 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:48:36,938 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:48:37,160 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:48:37,256 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:49:35,924 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:49:36,124 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:49:36,323 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:51:29,435 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:51:29,663 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:51:29,810 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:53:08,008 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:53:08,571 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:53:08,738 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:56:44,310 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:56:44,587 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:56:44,826 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 17:57:49,113 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 17:57:49,507 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 17:57:49,738 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 18:02:37,453 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 18:02:37,592 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 18:02:37,910 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 18:02:48,220 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 18:03:22,037 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 18:03:22,292 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 18:03:22,407 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 18:03:33,182 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 18:04:29,769 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 18:04:30,001 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 18:04:30,200 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 18:04:52,996 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 18:06:22,959 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 18:06:23,736 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 18:06:23,876 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 18:06:48,029 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 18:06:48,580 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 18:06:48,685 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 18:07:01,941 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 18:07:26,838 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - validation started....
+2023-04-25 18:07:26,856 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - test case passed....
+2023-04-25 18:08:28,308 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 18:08:28,690 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 18:08:28,943 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 18:09:34,093 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 18:09:34,311 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 18:09:34,400 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 18:09:48,240 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 18:10:13,294 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - validation started....
+2023-04-25 18:10:13,311 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - test case passed....
+2023-04-25 18:10:24,676 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 18:10:24,920 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 18:10:25,154 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 18:10:38,798 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 18:11:03,823 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - validation started....
+2023-04-25 18:11:03,858 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - test case passed....
+2023-04-25 18:14:10,283 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-25 18:14:10,354 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-25 18:14:10,706 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-25 18:14:11,546 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-25 18:14:14,068 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-25 18:14:14,958 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 18:14:15,040 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 18:14:18,737 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-25 18:14:23,067 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 18:14:23,128 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 18:14:27,158 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 18:14:27,221 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 18:14:30,936 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-25 18:14:35,155 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 18:14:35,219 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 18:14:39,178 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 18:14:39,263 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 18:14:45,416 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 18:14:45,650 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 18:14:45,767 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 18:14:59,278 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 18:15:24,252 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - validation started....
+2023-04-25 18:15:24,286 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - test case passed....
+2023-04-25 18:16:55,984 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-25 18:16:56,049 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-25 18:16:56,262 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-25 18:16:57,085 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-25 18:16:59,366 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-25 18:17:00,398 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 18:17:00,639 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 18:17:04,417 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-25 18:17:08,687 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 18:17:08,751 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 18:17:12,777 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 18:17:12,852 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 18:17:16,516 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-25 18:17:20,677 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 18:17:20,743 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 18:17:24,723 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 18:17:24,778 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 18:17:30,830 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 18:17:30,963 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 18:17:31,835 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 18:19:33,766 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-25 18:19:33,822 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-25 18:19:34,230 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-25 18:19:34,997 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-25 18:19:37,401 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-25 18:19:38,358 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 18:19:38,441 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 18:19:42,093 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-25 18:19:46,397 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 18:19:46,456 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 18:19:50,439 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-25 18:19:50,651 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 18:19:50,709 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 18:19:54,527 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-25 18:19:59,007 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 18:19:59,076 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 18:20:03,168 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-25 18:20:03,352 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-25 18:20:03,596 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-25 18:20:07,654 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-25 18:20:09,720 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-25 18:20:09,947 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-25 18:20:10,162 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-25 18:20:23,861 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - providing customer details....
+2023-04-25 18:20:48,382 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - validation started....
+2023-04-26 11:53:17,387 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-26 11:53:17,462 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-26 11:53:17,863 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-26 11:53:18,617 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-26 11:53:20,996 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-26 11:53:22,092 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 11:53:22,301 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 11:53:25,956 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-26 11:53:30,366 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 11:53:30,432 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 11:53:34,234 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 11:53:34,437 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 11:53:34,570 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 11:53:38,317 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-26 11:53:42,510 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 11:53:42,571 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 11:53:46,280 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 11:53:46,488 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 11:53:46,554 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 11:53:50,407 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 11:53:52,829 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-26 11:53:52,991 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-26 11:53:53,165 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-26 11:55:10,657 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-26 11:55:10,855 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-26 11:55:10,945 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-26 13:22:14,122 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-26 13:22:14,234 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-26 13:22:14,865 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-26 13:22:15,753 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-26 13:22:18,305 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-26 13:22:19,928 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 13:22:20,028 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 13:22:23,677 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-26 13:22:28,081 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 13:22:28,147 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 13:22:31,810 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 13:22:32,041 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 13:22:32,100 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 13:22:35,693 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-26 13:22:39,887 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 13:22:39,983 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 13:22:43,682 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 13:22:43,870 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 13:22:43,952 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 13:22:47,641 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 13:22:49,942 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-26 13:22:50,118 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-26 13:22:50,210 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-26 13:29:15,753 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-26 13:29:15,857 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-26 13:29:16,351 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-26 13:29:17,302 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-26 13:29:19,537 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-26 13:29:20,778 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 13:29:20,900 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 13:29:24,502 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-26 13:29:28,687 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 13:29:28,746 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 13:29:32,441 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 13:29:32,671 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 13:29:32,765 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 13:29:36,334 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-26 13:29:41,267 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 13:29:41,408 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 13:29:45,251 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 13:29:45,741 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 13:29:45,835 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 13:29:49,568 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 13:29:52,214 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-26 13:29:52,388 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-26 13:29:52,593 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-26 13:36:54,194 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-26 13:36:54,315 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-26 13:36:54,988 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-26 13:36:55,800 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-26 13:36:58,206 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-26 13:36:59,337 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 13:36:59,424 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 13:37:03,227 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-26 13:37:07,380 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 13:37:07,453 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 13:37:11,120 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 13:37:11,305 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 13:37:11,369 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 13:37:14,881 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-26 13:37:19,051 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 13:37:19,123 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 13:37:22,856 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 13:37:23,055 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 13:37:23,120 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 13:37:26,916 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 13:37:29,363 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-26 13:37:29,531 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-26 13:37:29,623 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-26 14:09:47,670 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-26 14:09:47,701 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-26 14:09:47,800 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-26 14:09:48,487 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-26 14:09:51,088 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-26 14:09:52,293 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 14:09:52,360 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 14:09:55,915 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-26 14:09:59,979 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 14:10:00,055 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 14:10:03,907 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 14:10:04,168 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 14:10:04,227 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 14:10:07,846 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-26 14:10:11,888 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 14:10:11,943 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 14:10:15,650 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 14:10:15,844 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 14:10:15,913 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 14:10:19,558 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 14:10:21,678 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-26 14:10:21,776 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-26 14:10:21,849 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
+2023-04-26 14:48:49,565 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - URL is opened
+2023-04-26 14:48:49,636 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Enterd username test
+2023-04-26 14:48:49,796 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Entered password
+2023-04-26 14:48:51,071 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login test passed
+2023-04-26 14:48:53,504 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - URL is opened
+2023-04-26 14:48:54,449 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 14:48:54,522 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 14:48:58,054 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-26 14:49:02,337 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 14:49:02,402 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 14:49:06,147 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 14:49:06,387 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 14:49:06,455 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 14:49:09,947 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login passed
+2023-04-26 14:49:14,101 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 14:49:14,169 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 14:49:17,922 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 14:49:18,172 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - user name provided
+2023-04-26 14:49:18,260 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - password provided
+2023-04-26 14:49:22,020 [main] INFO com.inetbanking.testCases.TC_LoginDDT_002 - Login failed
+2023-04-26 14:49:24,486 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - URL is opened
+2023-04-26 14:49:24,569 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - User name is provided
+2023-04-26 14:49:24,628 [main] INFO com.inetbanking.testCases.TC_AddCustomerTest_003 - Passsword is provided
